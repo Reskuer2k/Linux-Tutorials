@@ -2,7 +2,7 @@
 This repository collects common topics on managing Linux servers. Many of these notes were originally kept on my local system, but publishing them here allows me to share and collaborate with others.
 Each chapter is self-contained, so you can jump straight to any topic that interests you.
 
-### Chapter 1: Introduction to Linux
+### [Chapter 1: Introduction to Linux](01_intro_to_linux.md)
 ### Chapter 2: Getting Started with the Linux Terminal
 ### Chapter 3: File System Navigation
 ### Chapter 4: Understanding and Using Text Editors
