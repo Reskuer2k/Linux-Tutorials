@@ -1,4 +1,4 @@
-# Chapter 5: Users and Permissions
+# Chapter 5: Users Administration
 
 <a href="README.md">&laquo; main menu</a>
 
