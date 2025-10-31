@@ -23,6 +23,7 @@ Torvalds discussed the finer points of penguins with the list members, suggestin
 Today, the impact is everywhere. The Android phone in your pocket runs a kernel that traces directly back to Linux. Nearly all of the world’s top supercomputers and a majority of servers rely on it. To understand how Linux began, we must go back to the early 1980's — when Richard Stallman sparked the free software movement. A decade later, those ideals set the stage for a student in Finland to write a kernel that would change the world. Welcome to the Story of Linux
 [The Untold Story](https://www.youtube.com/watch?v=obJOwEy62bk)
 
+[Click here to view original post from Linus Torlvalds](https://www.cs.cmu.edu/~awb/linux.history.html](https://www.linux.com/news/linus-torvalds-linux-002-release-post-1991)
 
 ## 1.1 What is Linux?
 - **Linux Kernel**: Discuss the Linux kernel as the core of the operating system, managing hardware and system processes.
