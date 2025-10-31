@@ -20,7 +20,8 @@ But then Torvalds spoke up and said he thought that a penguin would be the perfe
 But not just any penguin -– Torvalds specifically wanted to steer away from the "macho penguin" image, and instead urged the developers to focus on creating an image of a cute, cuddly and contented penguin.
 Torvalds discussed the finer points of penguins with the list members, suggesting that "contented" means that the penguin "has either just gotten laid, or it's stuffed on herring."
 
-https://www.youtube.com/watch?v=obJOwEy62b
+Today, the impact is everywhere. The Android phone in your pocket runs a kernel that traces directly back to Linux. Nearly all of the world’s top supercomputers and a majority of servers rely on it. To understand how Linux began, we must go back to the early 1980's — when Richard Stallman sparked the free software movement. A decade later, those ideals set the stage for a student in Finland to write a kernel that would change the world. Welcome to the Story of Linux
+[The Untold Story](https://www.youtube.com/watch?v=obJOwEy62bk)
 
 
 ## 1.1 What is Linux?
