@@ -1,4 +1,4 @@
-# Chapter 3: File System Navigation
+# Chapter 3: Basic Linux Commands
 
 <a href="README.md">&laquo; main menu</a>
 
