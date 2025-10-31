@@ -13,7 +13,7 @@ ACLs allow you to assign specific permissions to multiple users or groups for th
 
 ---
 
-## 07.2 Enabling and Verifying ACL Support
+## 07.2 Enabling and Verifying ACL Support *'Red Hat systems come with ACL support enabled by default'.
 
 ### 07.2.1 Checking if ACLs Are Supported
 To check if your filesystem supports ACLs, you can do the following:
