@@ -8,4 +8,5 @@ Each chapter is self-contained, so you can jump straight to any topic that inter
 ### [Chapter 4: Understanding and Using Text Editors](04_text_editors.md)
 ### [Chapter 5: Users and Permissions](05_user_administration.md)
 ### [Chapter 6: Redirecting Input/Output and Pipes](06_redirecting_input_output_and_pipes.md)
+### [Chapter7: Access Control Lists (ACLs)](07_access_control_lists.md)
 
