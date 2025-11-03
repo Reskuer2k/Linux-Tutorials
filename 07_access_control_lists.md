@@ -1,7 +1,7 @@
 # Chapter 7: Access Control Lists (ACLs)
 
 ## 07.1 Introduction to ACLs
-Access Control Lists (ACLs) provide more granular control over file and directory permissions in Linux. They allow you to specify permissions for multiple users or groups beyond the traditional owner, group, and others model.
+ACLs, or Access Control Lists, in Linux are a feature that provides more flexible and granular control over file and directory permissions than the traditional Unix "owner, group, other" system. They allow you to specify access rights for individual users and groups beyond the standard set, enabling you to grant specific read, write, or execute permissions. You manage ACLs using the setfacl command to set them and getfacl to view them.  
 
 ### Why Use ACLs?
 The traditional permission model in Linux is limited to defining access rights for three entities: 
